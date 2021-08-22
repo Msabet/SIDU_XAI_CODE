@@ -31,7 +31,7 @@ To use this code you need install supporting modules of python.
 8. matplotlib
 
 
-To understand the code pls refere the paper of SIDU
+Further details can be found on the paper as follow,
 
 **If you use this software in an academic article, please consider citing:**
 
