@@ -46,7 +46,7 @@ Further details can be found on the paper as follow,
 		  doi={10.1109/ICIP40778.2020.9190952}
 		}
 
-For more information regarding the paper
+For more information regarding the paper check out the below diagrams
 
 
 ## Abstract:
